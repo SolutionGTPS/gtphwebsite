@@ -8,12 +8,12 @@
 */
 let option = {
     server_name: "GTPH",
-    server_description: "Your server Description",
+    server_description: "This is GTPH Official Website",
     owner: [
         "Supreme#2511",
         "Larawan#6925"
     ],
-    discord_invite_link: "Your permanent discord invite link",
+    discord_invite_link: "https://discord.gg/CfgTAFCvEH",
     ip_address: "Your server ip address",
     host_for_android: "Your host link for android device"
 }
