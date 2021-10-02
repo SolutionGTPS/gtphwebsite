@@ -7,11 +7,11 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
+    server_name: "GTPH",
     server_description: "Your server Description",
     owner: [
-        "Owner Server#0000",
-        "Owner Server#0000"
+        "Supreme#2511",
+        "Larawan#6925"
     ],
     discord_invite_link: "Your permanent discord invite link",
     ip_address: "Your server ip address",
