@@ -1,3 +1,1 @@
-# Empty
-
-Free Blank HTML Template for Static HTML Websites. (Starter HTML Template)
+# (C) Copyright 2021 GTPH Website
