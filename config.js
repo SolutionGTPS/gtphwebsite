@@ -11,7 +11,7 @@ let option = {
     server_description: "This is GTPH Official Website",
     owner: [
         "Supreme#2511",
-        "Larawan#6925"
+        "Larawan#6529"
     ],
     discord_invite_link: "https://discord.gg/CfgTAFCvEH",
     ip_address: "Your server ip address",
